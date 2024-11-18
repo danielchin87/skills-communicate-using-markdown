@@ -10,3 +10,9 @@
 ``` python
 print(“Hello world!")
 ```
+
+# Task List
+- [ ] Learn and apply data skills
+- [ ] Learn how to program
+- [ ] Upskill to AI
+
