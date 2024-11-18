@@ -4,3 +4,5 @@
 #### Markdown headers are similar to HTML it seems, with 6 sizes
 ##### There is so much to learn
 ###### It will come with more practice
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
